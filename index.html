@@ -1,46 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Your Name</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name – Personal Site</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
+      margin: 0;
+      font-family: sans-serif;
+      background: #fafafa;
+      color: #333;
+      line-height: 1.6;
+    }
+    nav {
+      background: #004080;
+      padding: 0.5em 1em;
+      position: sticky;
+      top: 0;
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      gap: 1em;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
     }
     header {
       text-align: center;
-      margin-bottom: 50px;
+      padding: 2em 1em;
+      background: #e0eaff;
     }
-    section {
-      max-width: 800px;
+    header img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 1em;
+    }
+    .bio {
+      max-width: 600px;
       margin: auto;
     }
-    h1 {
-      color: #333;
+    section.news {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background: #fff;
+      box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    }
+    .news h2 {
+      margin-top: 0;
+    }
+    .news article {
+      margin-bottom: 1em;
+      padding-bottom: 1em;
+      border-bottom: 1px solid #ddd;
+    }
+    .news article:last-child {
+      border-bottom: none;
+    }
+    footer {
+      text-align: center;
+      margin: 2em 0;
+      color: #666;
+      font-size: 0.9em;
+    }
+    @media (max-width: 600px) {
+      nav ul { flex-direction: column; align-items: center; }
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Your Name</h1>
-    <p>Web Developer | Designer | Content Creator</p>
-  </header>
-  <section>
-    <h2>About Me</h2>
-    <p>Welcome to my personal website. Here you'll find information about my projects, skills, and experiences.</p>
-    
-    <h2>Projects</h2>
+
+  <!-- Top navigation -->
+  <nav>
     <ul>
-      <li><strong>Project One:</strong> Description of project one.</li>
-      <li><strong>Project Two:</strong> Description of project two.</li>
+      <li><a href="#bio">Bio</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#lab">Lab</a></li>
+      <li><a href="#personal">Personal</a></li>
     </ul>
-    
-    <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">yourprofile</a></p>
+  </nav>
+
+  <!-- Header with photo and brief bio -->
+  <header id="bio">
+    <img src="your-photo.jpg" alt="Your Name">
+    <div class="bio">
+      <h1>Your Name</h1>
+      <p>I'm a [Your Title, e.g. "PhD researcher in Computational Neuroscience"]. I specialize in X, Y, and Z. Based at University/Lab ABC, I'm passionate about doing ABC research and outreach.</p>
+    </div>
+  </header>
+
+  <!-- News & Announcements section -->
+  <section class="news" id="announcements">
+    <h2>News &amp; Announcements</h2>
+    <article>
+      <h3>📢 [Date] – News Title 1</h3>
+      <p>Short description or summary of the announcement. <a href="link-to-full-post">Read more</a>.</p>
+    </article>
+    <article>
+      <h3>📢 [Date] – News Title 2</h3>
+      <p>Short description or summary of the announcement. <a href="link-to-full-post">Read more</a>.</p>
+    </article>
+    <!-- Add more articles as needed -->
   </section>
+
+  <footer>
+    <p>© 2025 Your Name. <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  </footer>
+
 </body>
 </html>
