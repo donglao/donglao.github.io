@@ -1,0 +1,29 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+#
+# NOTE that only one of the CV options should be selected, the first is for the
+#      Markdown formatted page while the second is generated using JSON.
+
+main:
+  # Navigation links for Dong Lao's website.  These correspond to anchors on the
+  # home page defined in `/about.md`.  Feel free to reorder or remove items as
+  # needed.  Each URL begins with a slash and then the section id.
+  - title: "About"
+    url: "/#about"
+  - title: "Education"
+    url: "/#education"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Teaching"
+    url: "/#teaching"
+  - title: "Students"
+    url: "/#students"
+  - title: "Service"
+    url: "/#service"
+  - title: "Contact"
+    url: "/#contact"
+  - title: "CV"
+    url: "/files/CV.pdf"

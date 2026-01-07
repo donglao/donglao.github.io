@@ -1,0 +1,23 @@
+# Authors
+
+# This file defines the people associated with your site. Each top‑level key
+# becomes the identifier for an author profile. The name of the key should
+# match the name used in page front matter if you wish to override any of
+# the defaults from `_config.yml`.
+
+"Dong Lao":
+  # The name that will appear in the sidebar
+  name  : "Dong Lao (劳 栋)"
+  # A short biography.  Keep the line breaks to wrap the text
+  bio   : |
+    Dong Lao is an Assistant Professor in the Division of Computer Science and Engineering within the **LSU** College of Engineering. Prior to LSU, he was a Postdoctoral Research Scholar at **UCLA** Vision Lab. He holds a Ph.D. in Applied Mathematics and Computational Sciences from **KAUST** and a B.S. in Mathematics from **SJTU**.
+
+    His research focuses on computer vision models with minimal human supervision, robustness of AI, computational imaging, and optimization. His work appears in CVPR, ICCV, ECCV, NeurIPS, ICML, and JMLR.
+  # A profile image stored in the `/images/` directory
+  avatar: "profile.jpg"
+  # E‑mail address
+  email : "dlao1@lsu.edu"
+  # Links to external profiles; leaving an item blank prevents it from showing
+  googlescholar: "https://scholar.google.com/citations?user=dvQXYW0AAAAJ&hl=en"
+  linkedin: "dong-lao-97b338b0"
+  # you can add additional fields as necessary (twitter, github, etc.)
