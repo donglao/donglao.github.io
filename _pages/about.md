@@ -29,8 +29,12 @@ His research focuses on computer vision models with minimal human supervision, r
 
 ## Selected Publications
 
-Full list in my [CV](/files/CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=dvQXYW0AAAAJ&hl=en).
+Full list in my [CV](/files/CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=MnO1l-cAAAAJ).
 
+ - [**Triangular Consistency as a Universal Constraint for Learning Optical Flow**](/files/Xiao_Optical_Flow_ECCV_2026_paper.pdf)  
+   Xiao, Coronel, Zhan, Oskouie, Wong, Lao, ECCV 2026
+ - [**Position: Unlabeled ≠ No Human Supervision in Visual Learning**](/files/Lao_Unlabeled_ICML_2026_paper.pdf)  
+   Lao, ICML 2026
  - [**Diffeomorphic Template Registration for Atmospheric Turbulence Mitigation**](/files/Lao_Diffeomorphic_Template_Registration_for_Atmospheric_Turbulence_Mitigation_CVPR_2024_paper.pdf)  
    Lao, Wang, Wong, Soatto, CVPR 2024 (Highlight)
  - [**On the Viability of Monocular Depth Pre‑training for Semantic Segmentation**](/files/Lao_On_Viability.pdf)  
