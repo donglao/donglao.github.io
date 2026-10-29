@@ -60,8 +60,8 @@ Full list in my [CV](/files/CV.pdf) or [Google Scholar](https://scholar.google.
 
 ## Teaching
 
-- **CSE 4444: Artificial Intelligence** — Fall 2025
-- **CSC 4343: Applied Deep Learning** — Spring 2026
+- **CSE 4444: Artificial Intelligence** — Fall 2025, Fall 2025
+- **CSC 4343: Applied Deep Learning** — Spring 2026, Spring 2027
 
 <a id="students"></a>
 
@@ -79,7 +79,7 @@ If you are not an active LSU student, please send an email to lsuvisionhire [at
 
  - Area Chair: ICLR
  - Reviewer: TPAMI, IJCV, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, WACV, ACCV, ACMMM, TMLR, etc.
- - Organizer of the 8th UG2+ Workshop at CVPR 2026
+ - Organizer: the 8th UG2+ Workshop at CVPR 2026
 
 <a id="contact"></a>
 
@@ -89,4 +89,4 @@ If you are not an active LSU student, please send an email to lsuvisionhire [at
 
  - Email: dong.lao [at] lsu.edu
 
-Office Hour: TBD
+Office Hours: by appointment
