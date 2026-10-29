@@ -6,6 +6,8 @@ author_profile: true
 
 > **💫 I’m recruiting Ph.D. students and research interns!** Please read the [announcement](https://docs.google.com/document/d/17UiuGiYNNQoqj1jpuxVu68DWzwTOIrJORpkwV1-USVY/edit?usp=sharing) carefully!
 
+> **💫 New! Ph.D. fellowship (fully funded) available from NSF!** Please read the [announcement](https://etap.nsf.gov/award/8547/opportunity/12104) carefully!
+
 <a id="about"></a>
 
 ## About
@@ -31,6 +33,8 @@ His research focuses on computer vision models with minimal human supervision, r
 
 Full list in my [CV](/files/CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=MnO1l-cAAAAJ).
 
+ - [**Test-time defense against adversarial attacks via stochastic resonance of latent ensembles**](/files/Xiao_Optical_Flow_ECCV_2026_paper.pdf)  
+   Lao, Zhang, Oskouie, Wu, Wong, Soatto, NeurIPS 2026
  - [**Triangular Consistency as a Universal Constraint for Learning Optical Flow**](/files/Xiao_Optical_Flow_ECCV_2026_paper.pdf)  
    Xiao, Coronel, Zhan, Oskouie, Wong, Lao, ECCV 2026
  - [**Position: Unlabeled ≠ No Human Supervision in Visual Learning**](/files/Lao_Unlabeled_ICML_2026_paper.pdf)  
@@ -73,7 +77,8 @@ If you are not an active LSU student, please send an email to lsuvisionhire [at
 
 ## Service
 
- - Reviewer: TPAMI, IJCV, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, WACV, ACCV, ACMMM, etc.
+ - Area Chair: ICLR
+ - Reviewer: TPAMI, IJCV, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, WACV, ACCV, ACMMM, TMLR, etc.
  - Organizer of the 8th UG2+ Workshop at CVPR 2026
 
 <a id="contact"></a>
